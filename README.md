@@ -107,6 +107,5 @@ Badge Emulator
 --------------
 ```
 make -C micropython/unix
-cd micropython/unix
-./micropython ../../examples/Game\ of\ Life/game_of_life.py
+./emulator/emulate.py examples/Game\ of\ Life/game_of_life.py
 ```
