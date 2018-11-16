@@ -1,25 +1,28 @@
-Firmware SHA2017Badge
-=====================
+Firmware HackerHotel Badge
+==========================
 
-Read [project documentation](https://wiki.sha2017.org/w/Projects:Badge)
-and get involved.
+The HackerHotel Badge firmware is an adaptation of the
+[SHA2017 Badge firmware](https://github.com/SHA2017-badge/Firmware)
+by mostly the same team.
+
+Read [the SHA2017 project documentation](https://wiki.sha2017.org/w/Projects:Badge)
+for some background.
 
 Project updates:
 
-* [Wiki](https://wiki.sha2017.org/w/Projects:Badge)
-* [Documentation](https://wiki.sha2017.org/w/Projects:Badge/Documentation)
-* [Firmware](https://github.com/SHA2017-badge/Firmware)
-* [PCB](https://github.com/SHA2017-badge/PCB)
+* [SHA2017 Badge Documentation](https://wiki.sha2017.org/w/Projects:Badge/Documentation)
+* [Firmware](https://github.com/HackerHotel/Firmware)
+* [PCB](https://github.com/HackerHotel/PCB)
 * [Pad](https://pad.sha2017.org/p/badge)
 * [Changelog](CHANGELOG.md)
 
-Copyright (C) 2017 SHA2017 Badge team.
+Copyright (C) 2017-2018 [Badge.team](https://badge.team).
 Based on template application for [Espressif IoT Development Framework (ESP-IDF)](https://github.com/espressif/esp-idf).
 Copyright (C) 2016 Espressif Systems, licensed under the Apache License 2.0
 as described in the file LICENSE.
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d73b02ee522942b8ae1244aa2ee62f43)](https://www.codacy.com/app/annejan/Firmware?utm_source=github.com&utm_medium=referral&utm_content=SHA2017-badge/Firmware&utm_campaign=badger)
-[![Build Status](https://travis-ci.org/SHA2017-badge/Firmware.svg?branch=master)](https://travis-ci.org/SHA2017-badge/Firmware)
+[![Build Status](https://travis-ci.org/HackerHotel/Firmware.svg?branch=master)](https://travis-ci.org/HackerHotel/Firmware)
 
 Debian prerequisites
 --------------------
